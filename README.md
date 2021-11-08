@@ -25,7 +25,7 @@ To-do List:
 
 # Getting Started
 ```
-git clone https://github.com/fullxtilt/RevatureProj2-Spring.git
+git clone https://github.com/fullxtilt/RevatureProj2-Angular.git
 ```
 ## Setup
 Environment Variables:
